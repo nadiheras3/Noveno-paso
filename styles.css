@@ -141,3 +141,6 @@ dd {
   flex-direction: column;
   align-items: center;
 }
+.greeting { 
+  text-align: center;
+}
